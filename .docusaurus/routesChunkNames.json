@@ -1,0 +1,52 @@
+{
+  "/__docusaurus/debug-88e": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---docusaurus-debuge-1-f-ce3"
+    }
+  },
+  "/__docusaurus/debug/config-a75": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---docusaurus-debuge-1-f-ce3"
+    }
+  },
+  "/__docusaurus/debug/content-afd": {
+    "__comp": "__comp---theme-debug-contentba-8-ce7",
+    "__context": {
+      "plugin": "plugin---docusaurus-debuge-1-f-ce3"
+    },
+    "allContent": "allContent---docusaurus-debug-content-246-9aa"
+  },
+  "/__docusaurus/debug/globalData-586": {
+    "__comp": "__comp---theme-debug-global-dataede-0fa",
+    "__context": {
+      "plugin": "plugin---docusaurus-debuge-1-f-ce3"
+    }
+  },
+  "/__docusaurus/debug/metadata-263": {
+    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
+    "__context": {
+      "plugin": "plugin---docusaurus-debuge-1-f-ce3"
+    }
+  },
+  "/__docusaurus/debug/registry-979": {
+    "__comp": "__comp---theme-debug-registry-679-501",
+    "__context": {
+      "plugin": "plugin---docusaurus-debuge-1-f-ce3"
+    }
+  },
+  "/__docusaurus/debug/routes-04f": {
+    "__comp": "__comp---theme-debug-routes-946-699",
+    "__context": {
+      "plugin": "plugin---docusaurus-debuge-1-f-ce3"
+    }
+  },
+  "/-f5b": {
+    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+    "__context": {
+      "plugin": "plugin---7-b-8-020"
+    },
+    "content": "content---f-39-267"
+  }
+}
