@@ -1,9 +1,0 @@
-{
-  "type": "mdx",
-  "permalink": "/",
-  "source": "@site/src/pages/index.md",
-  "title": "Roku Talon Hub",
-  "description": "Welcome! Below are my shared Talon voice tools, games, and utilities. Many of these are experimental. If you have any questions or suggestions, feel free to reach out on the Talon Slack",
-  "frontMatter": {},
-  "unlisted": false
-}
