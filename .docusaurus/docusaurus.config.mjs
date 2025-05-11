@@ -4,15 +4,15 @@
  * Modify the docusaurus.config.js file at your site's root instead.
  */
 export default {
-  "title": "My Single Page Site",
-  "tagline": "A single-page Docusaurus site",
-  "url": "https://your-site.com",
-  "baseUrl": "/",
+  "title": "Roku Talon Hub",
+  "tagline": "Shared Talon voice tools, games, and utilities",
+  "url": "https://rokubop.github.io",
+  "baseUrl": "/roku-talon-hub/",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
   "favicon": "img/favicon.ico",
-  "organizationName": "your-org",
-  "projectName": "your-project",
+  "organizationName": "rokubop",
+  "projectName": "roku-talon-hub",
   "presets": [
     [
       "@docusaurus/preset-classic",

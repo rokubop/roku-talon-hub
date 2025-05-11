@@ -1,13 +1,13 @@
 module.exports = {
-  title: "My Single Page Site",
-  tagline: "A single-page Docusaurus site",
-  url: "https://your-site.com",
-  baseUrl: "/",
+  title: "Roku Talon Hub",
+  tagline: "Shared Talon voice tools, games, and utilities",
+  url: "https://rokubop.github.io", // Your GitHub Pages URL
+  baseUrl: "/roku-talon-hub/", // The repository name as the base URL
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.ico",
-  organizationName: "your-org", // Usually your GitHub org/user name.
-  projectName: "your-project", // Usually your repo name.
+  organizationName: "rokubop", // Your GitHub username
+  projectName: "roku-talon-hub", // Your repository name
 
   presets: [
     [

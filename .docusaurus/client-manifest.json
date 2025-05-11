@@ -1,0 +1,101 @@
+{
+  "entrypoints": [
+    "main"
+  ],
+  "origins": {
+    "312": [
+      312
+    ],
+    "main": [
+      354,
+      869,
+      792
+    ],
+    "runtime~main": [
+      792,
+      869,
+      354
+    ],
+    "1f391b9e": [
+      869,
+      61
+    ],
+    "a7456010": [
+      235
+    ],
+    "f3976560": [
+      795
+    ],
+    "styles": [
+      61,
+      354,
+      792,
+      869
+    ]
+  },
+  "assets": {
+    "61": {
+      "js": [
+        {
+          "file": "assets/js/1f391b9e.2e33dc48.js",
+          "hash": "5a7548e30c7bed51",
+          "publicPath": "/roku-talon-hub/assets/js/1f391b9e.2e33dc48.js"
+        }
+      ]
+    },
+    "235": {
+      "js": [
+        {
+          "file": "assets/js/a7456010.fabdf4d2.js",
+          "hash": "105fac37bc562fc0",
+          "publicPath": "/roku-talon-hub/assets/js/a7456010.fabdf4d2.js"
+        }
+      ]
+    },
+    "312": {
+      "js": [
+        {
+          "file": "assets/js/312.b4818f9f.js",
+          "hash": "687278afc0a58f40",
+          "publicPath": "/roku-talon-hub/assets/js/312.b4818f9f.js"
+        }
+      ]
+    },
+    "354": {
+      "js": [
+        {
+          "file": "assets/js/runtime~main.ca853356.js",
+          "hash": "a3694881d98c22d3",
+          "publicPath": "/roku-talon-hub/assets/js/runtime~main.ca853356.js"
+        }
+      ]
+    },
+    "792": {
+      "js": [
+        {
+          "file": "assets/js/main.0a205926.js",
+          "hash": "db08a443b16b76db",
+          "publicPath": "/roku-talon-hub/assets/js/main.0a205926.js"
+        }
+      ]
+    },
+    "795": {
+      "js": [
+        {
+          "file": "assets/js/f3976560.fdf3f7ff.js",
+          "hash": "0b38f9cbe5332071",
+          "publicPath": "/roku-talon-hub/assets/js/f3976560.fdf3f7ff.js"
+        }
+      ]
+    },
+    "869": {
+      "css": [
+        {
+          "file": "assets/css/styles.8292a44e.css",
+          "hash": "1625edf822c5f393",
+          "publicPath": "/roku-talon-hub/assets/css/styles.8292a44e.css"
+        }
+      ]
+    }
+  }
+}
