@@ -32,14 +32,23 @@ export default {
       "respectPrefersColorScheme": true
     },
     "navbar": {
-      "hideOnScroll": true,
+      "hideOnScroll": false,
       "items": []
+    },
+    "footer": {
+      "style": "light",
+      "links": []
     },
     "docs": {
       "versionPersistence": "localStorage",
       "sidebar": {
         "hideable": false,
         "autoCollapseCategories": false
+      }
+    },
+    "blog": {
+      "sidebar": {
+        "groupByYear": true
       }
     },
     "metadata": [],
@@ -199,6 +208,22 @@ export default {
     ],
     "localeConfigs": {}
   },
+  "future": {
+    "experimental_faster": {
+      "swcJsLoader": false,
+      "swcJsMinimizer": false,
+      "swcHtmlMinimizer": false,
+      "lightningCssMinimizer": false,
+      "mdxCrossCompilerCache": false,
+      "rspackBundler": false
+    },
+    "experimental_storage": {
+      "type": "localStorage",
+      "namespace": false
+    },
+    "experimental_router": "browser"
+  },
+  "onBrokenAnchors": "warn",
   "onDuplicateRoutes": "warn",
   "staticDirectories": [
     "static"
@@ -213,6 +238,15 @@ export default {
   "titleDelimiter": "|",
   "noIndex": false,
   "markdown": {
-    "mermaid": false
+    "format": "mdx",
+    "mermaid": false,
+    "mdx1Compat": {
+      "comments": true,
+      "admonitions": true,
+      "headingIds": true
+    },
+    "anchors": {
+      "maintainCase": false
+    }
   }
 };

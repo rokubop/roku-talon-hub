@@ -28,9 +28,7 @@ module.exports = {
       disableSwitch: false, // Allow users to toggle between dark and light mode
       respectPrefersColorScheme: true, // Use the user's system preference
     },
-    navbar: {
-      hideOnScroll: true, // Hide the navbar completely
-      items: [], // Remove all items from the navbar
-    },
+    navbar: {}, // Disable the navbar by setting it to an empty object
+    footer: {}, // Disable the footer
   },
 };

@@ -1,5 +1,9 @@
 /* Custom CSS for your Docusaurus site */
 
+html {
+  background-color: #121212;
+}
+
 body {
   font-family: Arial, sans-serif;
   background-color: #121212; /* Dark background for dark mode */
@@ -17,6 +21,11 @@ h6 {
 
 a {
   color: #bb86fc; /* Accent color for links */
+}
+
+.navbar,
+.footer {
+  display: none;
 }
 
 /* Add more custom styles as needed */
